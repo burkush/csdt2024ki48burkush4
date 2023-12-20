@@ -24,4 +24,4 @@ I have to create the checkers game with XML configuration.
 
 ### How to run the game
 
-To run the game locally, you need to compile the Checkers.cpp file with a C++ compiler, such as gcc.
+To run the game locally, you need to compile the Checkers.cpp file with a C++ compiler, such as gcc. Also, you need to have the CY8CKIT-042 PSoC® 4 Pioneer Kit available.
